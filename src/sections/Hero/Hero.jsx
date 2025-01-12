@@ -1,5 +1,5 @@
 import styles from './HeroStyles.module.css';
-import heroImg from '../../assets/hero-img.png';
+import heroImg from '../../assets/hero-img-2.jpeg';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import twitterLight from '../../assets/twitter-light.svg';
@@ -33,13 +33,13 @@ function Hero() {
 				</h1>
 				<h2>FullStack Developer</h2>
 				<span>
-					<a href="https://twitter.com/" target="_blank">
+					<a href="https://twitter.com/theb8821" target="_blank">
 						<img src={twitterIcon} alt="Twitter icon" />
 					</a>
-					<a href="https://github.com/" target="_blank">
+					<a href="https://github.com/theb8821" target="_blank">
 						<img src={githubIcon} alt="Github icon" />
 					</a>
-					<a href="https://linkedin.com/" target="_blank">
+					<a href="https://www.linkedin.com/in/theb8821/" target="_blank">
 						<img src={linkedinIcon} alt="Linkedin icon" />
 					</a>
 				</span>
